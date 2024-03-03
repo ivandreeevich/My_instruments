@@ -61,8 +61,8 @@ Git - это распределенная система управления в
 
 **Установка имени и электронной почты.**
 
-``git config --global user.name "Ваше имя"``
-``git config --global user.email "Ваша почта"``
+* **``git config --global user.name "Ваше имя"``**
+* **``git config --global user.email "Ваша почта"``**
 
 ## Настройка Git
 
